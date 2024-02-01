@@ -66,3 +66,26 @@ align-items: center;
 
 
 }
+
+.botao--branco{
+    background-color: #fff;
+    color: black;
+    font-size: 10px;
+
+}
+
+.botao--corrige{
+    background-color: orange;
+    color: black;
+    font-size: 10px;
+}
+
+.botao--confirma{
+    background-color: #0b4b0b;
+    color: black;
+    width: 90px;
+    height: 56px;
+    font-size: 15px;
+
+
+}
